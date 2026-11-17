@@ -1,0 +1,5 @@
+# Asignación de carteras comerciales
+
+1. Toda cartera nueva se asigna al ejecutivo de la zona del cliente.
+2. Los clientes con ventas sobre $5M anuales pasan a un ejecutivo senior o a un gerente de cuenta.
+3. Una reasignación necesita la aprobación del jefe comercial.
